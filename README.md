@@ -65,7 +65,7 @@ Sampling in latent spac
 Average class images
 Interpolation between flowers
 
-Exp-14: GAN for Synthetic Image Generation
+Experiment_14: GAN for Synthetic Image Generation
 Generator + Discriminator
 Train GAN on flower images
 Generate synthetic samples
