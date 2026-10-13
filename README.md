@@ -1,10 +1,11 @@
-Deep Learning Lab 
-Author: Harshita Bhatnagar
+**Deep Learning Lab**
+Author: **Bhavya Singh**
 
 This repository contains all experiments performed as part of the Deep Learning Lab.
 The experiments cover the full pipeline of modern deep learning—from basic neural networks to advanced generative models such as VAEs and GANs.
 
-Each experiment includes:
+**Each experiment includes:**
+
 Aim/Objectives
 Theory/Concepts
 Implementation (TensorFlow / PyTorch)
@@ -12,7 +13,7 @@ Graphs & Visualizations
 Results & Outputs
 Conclusion
 
-List of Experiments -
+**List of Experiments** -
 
 Experiment_2: Building Neural Networks from Scratch
 Implement perceptron AND gate
@@ -71,19 +72,19 @@ Train GAN on flower images
 Generate synthetic samples
 Compare with VAE output
 
-Environment Setup
+**Environment Setup**
 
 Install dependencies:
 pip install -r requirements.txt
 
-Running the Experiments
+**Running the Experiments**
 
 Run any experiment using:
 python Exp-<number>.py
 Example:
 python Exp-10.py
 
-Outputs & Visualizations
+**Outputs & Visualizations**
 
 Each experiment includes:
 Accuracy/Loss curves
@@ -94,7 +95,7 @@ Reconstructed images
 Synthetic generated images (GAN & VAE)
 All figures are displayed automatically when the script runs.
 
-Technologies Used
+**Technologies Used**
 
 TensorFlow / Keras
 PyTorch / Torchvision
@@ -104,7 +105,7 @@ UMAP (dimensionality reduction)
 Matplotlib & Seaborn
 Scikit-learn metrics
 
-Highlights of This Repository
+**Highlights of This Repository**
 
 / All models fully implemented
 / Clean structure
@@ -114,7 +115,7 @@ Highlights of This Repository
 / Covers entire deep learning pipeline
 / Includes both discriminative and generative modeling
 
-Acknowledgements
+**Acknowledgements**
 
 Kaggle Flowers Dataset
 TensorFlow, PyTorch
