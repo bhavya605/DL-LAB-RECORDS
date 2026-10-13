@@ -106,13 +106,13 @@ Scikit-learn metrics
 
 Highlights of This Repository
 
-✔ All models fully implemented
-✔ Clean structure
-✔ Fast and optimized code
-✔ Plots included (NOT removed)
-✔ Real dataset
-✔ Covers entire deep learning pipeline
-✔ Includes both discriminative and generative modeling
+/ All models fully implemented
+/ Clean structure
+/ Fast and optimized code
+/ Plots included (NOT removed)
+/ Real dataset
+/ Covers entire deep learning pipeline
+/ Includes both discriminative and generative modeling
 
 Acknowledgements
 
