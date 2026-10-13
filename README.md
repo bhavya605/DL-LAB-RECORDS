@@ -14,53 +14,53 @@ Conclusion
 
 List of Experiments -
 
-Exp-2: Building Neural Networks from Scratch
+Experiment_2: Building Neural Networks from Scratch
 Implement perceptron AND gate
 XOR/AND using Feedforward Neural Network
 
-Exp-3: Activation Functions & Loss Functions
+Experiment_3: Activation Functions & Loss Functions
 Sigmoid, ReLU, Softmax, Tanh
 Cross-entropy, MSE visualization
 
-Exp-4: Multi-Layer Perceptron (MLP)
+Experiment_4: Multi-Layer Perceptron (MLP)
 Forward/backprop
 Hidden layers, accuracy curves
 
-Exp-5: Image Classification with Pre-trained CNNs (ResNet)
+Experiment_5: Image Classification with Pre-trained CNNs (ResNet)
 Transfer Learning
 Training, testing, confusion matrix, ROC
 
-Exp-6: Convolutional Neural Network (CNN) from Scratch
+Experiment_6: Convolutional Neural Network (CNN) from Scratch
 Filters, pooling, feature maps
 Training & performance evaluation
 
-Exp-7: Model Evaluation Metrics
+Experiment_7: Model Evaluation Metrics
 Accuracy, Precision, Recall, F1-score
 Sensitivity, Specificity, ROC
 
-Exp-8: CNN Tutorial Implementation
+Experiment_8: CNN Tutorial Implementation
 Using Kaggle flower dataset
 Feature extraction, visualization
 
-Exp-9: Transfer Learning & Fine-tuning
+Experiment_9: Transfer Learning & Fine-tuning
 Using ResNet/VGG models
 Detailed training logs
 
-Exp-10: Image Segmentation using U-Net
+Experiment_10: Image Segmentation using U-Net
 Build U-Net
 Dice loss, IoU metrics
 Segmentation masks visualization
 
-Exp-11: Object Detection using R-CNN
+Experiment_11: Object Detection using R-CNN
 Selective search region proposals
 ROI classification + bounding-box regression
 Prediction visualization
 
-Exp-12: Autoencoder for Image Reconstruction
+Experiment_12: Autoencoder for Image Reconstruction
 Dimensionality reduction
 Reconstruction quality comparison
 
-Exp-13: Variational Autoencoder (VAE)
+Experiment_13: Variational Autoencoder (VAE)
 Sampling in latent spac
 Average class images
 Interpolation between flowers
