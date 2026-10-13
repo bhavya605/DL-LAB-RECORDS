@@ -1,0 +1,40 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+tqdm
+jupyter
+notebook
+
+# PyTorch + torchvision (for CNN, ResNet, RCNN, UNet in PyTorch)
+torch
+torchvision
+torchaudio
+
+# TensorFlow + Keras (for AE, VAE, GAN, MLP experiments)
+tensorflow
+keras
+
+# Image processing
+opencv-python
+pillow
+albumentations
+
+# Selective Search for R-CNN
+selectivesearch
+
+# Visualization & Utilities
+umap-learn
+imageio
+python-slugify
+
+# Kaggle dataset utilities (optional)
+kaggle
+
+# Progress bars and utilities
+tqdm
+
+# For plots inside VS Code / Jupyter
+ipython
